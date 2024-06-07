@@ -8,10 +8,12 @@ body {
 
     background-color: rgb(19, 38, 90);
 }
+/*Estilisa o corpo da página*/
 
 canvas {
     position: absolute;
 }
+/*Posiciona o CANVAS do faceid*/
 
 #faceid {
     position: absolute;
@@ -20,8 +22,10 @@ canvas {
     color: rgb(187, 187, 187);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+/*Estilisa o texto FACEID*/
 
 video {
    border: 6px solid white;
    box-sizing: border-box;
 }
+/*Estilisa a CAM*/
